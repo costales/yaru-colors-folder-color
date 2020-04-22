@@ -1,5 +1,5 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: yaru-colors-and-folder-color
+Upstream-Name: yaru-colors-folder-color
 Upstream-Contact: costales <marcos.costales@gmail.com>
 
 Files: *.*

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Copyright (C) 2020 Jan Schroder https://github.com/Jannomag/Yaru-Colors
-# Copyright (C) 2020 Jan Schroder https://github.com/costales/yaru-colors_and_folder-color/
+# Copyright (C) 2020 Marcos Costales https://github.com/costales/yaru-colors-folder-color/
 #
 # This software is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -20,18 +20,14 @@
 
 import os, sys, DistUtilsExtra.auto
 
-# Create data files
-#data = [ ('/usr/share/icons/Yaru', glob.glob('icons/*'))]
-
 # Setup stage
 DistUtilsExtra.auto.setup(
-    name         = "yaru-colors_and_folder-color",
+    name         = "yaru-colors-folder-color",
     version      = "0.0.1",
     description  = "Adap Yaru-Colors for working with Folder Color in Ubuntu 20.04",
     author       = "Marcos Alvarez Costales https://costales.github.io/",
     author_email = "marcos.costales@gmail.com",
-    url          = "https://github.com/costales/yaru-colors_and_folder-color",
-    license      = "GPL3"#,
-    #data_files   = data
-    )
+    url          = "https://github.com/costales/yaru-colors-folder-color",
+    license      = "GPL3"
+)
 
