@@ -10,7 +10,7 @@ This will allow a perfect integration of Yaru with Folder Color in Ubuntu 20.04:
 ![Yaru & Folder Color in Ubuntu 20.04](https://raw.githubusercontent.com/costales/yaru-colors-folder-color/master/screenshot.jpg)
 
 
-## How to install
+## How to install it
 
 In Ubuntu 20.04 run these commands from a Terminal:
 
@@ -19,4 +19,4 @@ sudo add-apt-repository ppa:costales/yaru-colors-folder-color
 sudo apt install yaru-colors-folder-color
 ```
 
-Enjoy it!
+All credits of this code are going to [Jan Schröder](https://github.com/Jannomag)!
