@@ -1,0 +1,11 @@
+Package: yaru-colors-and-folder-color
+Version: 0.0.1
+Architecture: all
+Maintainer: costales <costales.marcos@gmail.com>
+Installed-Size: 2430
+Depends: yaru-theme-icon
+Section: graphics
+Priority: extra
+Homepage: https://github.com/costales/yaru-colors_and_folder-color
+Description: Yaru-Color and Folder Color
+ Adap Yaru-Colors for working with Folder Color in Ubuntu 20.04
